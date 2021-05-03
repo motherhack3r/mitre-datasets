@@ -1,2 +1,0 @@
-latest/mitre_latest.rds filter=lfs diff=lfs merge=lfs -text
-beta/2021-04-26_mitre_v0.6.0.rds filter=lfs diff=lfs merge=lfs -text
